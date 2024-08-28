@@ -21,8 +21,8 @@ Go to the Webhooks service on IFTTT and click on "Documentation".
 
 Here, you will find your Webhooks key.
 
-Update the Python Script:
 
+Update the Python Script:
 
 
 In the code you provided, replace your_event_name with the event name you chose (e.g., "tour_notification").
